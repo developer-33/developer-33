@@ -11,7 +11,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Im 35 years old and I've been doing web dev for 5 years
 
 * 🌍  I'm based in New Orleans, LA
-* 🖥️  See my portfolio at [My Portfolio](http://majestic-froyo-df301a.netlify.app/)
+* 🖥️  See my portfolio at [My Portfolio](http://majestic-froyo-df301a.netlify.app/) A Work In Progress
 * 🧠  I'm learning Php and Python
 * 🤝  I'm open to collaborating on Any thing really I love learning new things and meeting new people.
 * ⚡  I hope you have a lovely day (or night), thanks for checking out my GitHub profile. Cheers
