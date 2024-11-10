@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br>
 Web Developer and Backend Specialist
 ------------------------------------
-(https://raw.githubusercontent.com/nakuldevmv/nakuldevmv/output/snake.svg)
+
 Im 35 years old and I've been doing web dev for 5 years
 
 * 🌍  I'm based in New Orleans, LA
