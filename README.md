@@ -61,7 +61,6 @@ Im 35 years old and I've been doing web dev for 5 years
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)
 
 
-![Snake animation](https://github.com/developer-33/developer-33/blob/output/github-contribution-grid-snake.svg)
 
 
 
