@@ -25,6 +25,8 @@ Im 35 years old and I've been doing web dev for 5 years
 [![Email](https://img.shields.io/badge/Email-devloper3324@proton.me-red)](mailto:devloper3324@proton.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nakuldev1561-lightblue)](https://www.linkedin.com/in/nakuldev1561)
 
+## Watch my contribution snake 🐍
+![Snake animation](https://github.com/developer-33/developer-33/blob/output/snake.svg)
 
 
 
