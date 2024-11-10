@@ -26,9 +26,9 @@ Im 35 years old and I've been doing web dev for 5 years
 ## Connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-developer33-blue?logo=github)](https://github.com/developer-33)
-[![Website](https://img.shields.io/badge/Website-jo.cly.n-orange)](https://burtoncreations.netlify.com)
+[![Website](https://img.shields.io/badge/Website-website-orange?logo=website)](https://burtoncreations.netlify.com)
 [![Email](https://img.shields.io/badge/Email-devloper3324@proton.me-red)](mailto:devloper3324@proton.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nakuldev1561-lightblue)](https://www.linkedin.com/in/nakuldev1561)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fletcherburton-lightblue?logo=linkedin)](https://www.linkedin.com/in/fletcher-burton/)
 --------------------------------------------------------------------------------------------------------------------
 
 ## Top Languages
