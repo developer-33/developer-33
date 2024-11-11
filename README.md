@@ -46,9 +46,9 @@ Im 35 years old and I've been doing web dev for 5 years
 
 ## Trainer Profile
 
-| Name        | Your Name Here     |
+| Name        | Fletcher     |
 |-------------|---------------------|
-| Trainer ID  | 000001             |
+| Trainer ID  | 347855         |
 | Region      | Kanto              |
 | Badges      | 8                  |
 | Favorite Type | Electric ⚡️       |
