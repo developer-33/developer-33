@@ -1,54 +1,77 @@
 
+<!-- HYPER-FUTURISTIC CYBERPUNK PROFILE README for developer-33 -->
 
+<div align="center">
 
-<h1 align="center">Hi there, I'm <span style="color:#ffcb05;">developer-33</span>! 👋</h1>
+<!-- Neon animated header -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&pause=2000&color=FF2D95&center=true&vCenter=true&width=600&lines=SYSTEM+BOOTING...;WELCOME+TO+MY+NEON+GRID;CODENAME%3A+DEVELOPER-33;WEB+HACKER+%E2%9A%A1%EF%B8%8F;POK%C3%89MON+RUNNER+%F0%9F%8C%88" alt="Neon Typing SVG" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" alt="Pikachu" width="100"/>
+<!-- Neon avatar or pixel art (replace as desired) -->
+<img src="https://raw.githubusercontent.com/akabab/pokemon-sprites/master/sprites/animated/25.gif" width="120" alt="Neon Pikachu" style="filter: drop-shadow(0 0 30px #05d9e8);" />
+
+<h1 align="center" style="color:#05d9e8;text-shadow:0 0 10px #ff2d95, 0 0 30px #05d9e8;">👾 DEVELOPER-33 👾</h1>
+
+<p align="center" style="color:#ffd300;font-size:1.2em;text-shadow:0 0 10px #05d9e8;">
+  <b>🌐 Building the web of tomorrow.<br/>
+  🚀 Living at the intersection of code and neon.<br/>
+  🕹️ Pokémon hunter — digital city streets, midnight battles.</b>
 </p>
-
----
-
-<h3 align="center">
-  <span style="color:#3893e9;">🕸️ Web Developer</span> | <span style="color:#ff5959;">🕹️ Pokémon Enthusiast</span>
-</h3>
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<!-- Add more tech badges as you like -->
+<!-- Neon skill badges -->
+<img src="https://img.shields.io/badge/HTML5-FF2D95?style=for-the-badge&logo=html5&logoColor=05D9E8"/>
+<img src="https://img.shields.io/badge/CSS3-05D9E8?style=for-the-badge&logo=css3&logoColor=FF2D95"/>
+<img src="https://img.shields.io/badge/JavaScript-FFD300?style=for-the-badge&logo=javascript&logoColor=05D9E8"/>
+<img src="https://img.shields.io/badge/React-05D9E8?style=for-the-badge&logo=react&logoColor=FFD300"/>
+<!-- Add more neon badges for frameworks/libraries you use! -->
 
 </div>
 
 ---
 
-## 🌟 About Me
+## 📈 Cyber Stats
 
-- 💻 I love turning ideas into interactive web experiences.
-- 🎮 Pokémon fan—my favorite team is always evolving!
-- 🚀 Always learning new tricks and technologies.
+<div align="center">
 
----
-
-## 📫 Let's Connect!
-
-- GitHub: [developer-33](https://github.com/developer-33)
-<!-- Add more social links as needed -->
+<!-- GitHub Stats Graphs (neon style) -->
+<img src="https://github-readme-stats.vercel.app/api?username=developer-33&show_icons=true&bg_color=00000000&title_color=ff2d95&icon_color=05d9e8&text_color=ffd300&border_color=05d9e8" alt="GitHub Stats" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-33&theme=highcontrast&background=00000000&stroke=05d9e8&ring=ff2d95&currStreakLabel=ffd300" alt="GitHub Streak" height="160"/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=developer-33&bg_color=00000000&color=ffd300&line=ff2d95&point=05d9e8&area=true&area_color=05d9e899&hide_border=true" alt="Activity Graph" height="160"/>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png" alt="Charizard" width="80"/>
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png" alt="Dragonite" width="80"/>
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" alt="Gengar" width="80"/>
+## 🦾 About Me
+
+- 💾 Coding neon networks, building glowing web worlds.
+- 🕹️ Pokémon battles in digital back-alleys.
+- 🔮 Always seeking the next evolution of the web.
+- 🧑‍💻 Futurist. Synthwave. Always beta.
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+  <a href="https://github.com/developer-33">
+    <img src="https://img.shields.io/badge/GitHub-05d9e8?style=for-the-badge&logo=github&logoColor=ff2d95"/>
+  </a>
+  <!-- Add more neon social badges as needed -->
+</div>
+
+---
+
+
+
+
+<p align="center" style="color:#ff2d95;font-size:1.1em;">
+  <b>“Hack the city. Catch the legends. Glow in the dark.”</b>
 </p>
 
-<p align="center"><b><span style="color:#ffcb05;">“Gotta catch 'em all!”</span></b></p>
-
 <!--
-✨ Tip: Markdown doesn't support native font colors, but badges and images add vibrance!
+✨ TIP: Markdown doesn't support true font colors or CSS, but SVG badges, animated GIFs, and graphs bring your neon grid to life!
 -->
