@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- Neon animated header -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&pause=2000&color=FF2D95&center=true&vCenter=true&width=600&lines=SYSTEM+BOOTING...;WELCOME+TO+MY+NEON+GRID;CODENAME%3A+DEVELOPER-33;WEB+HACKER+%E2%9A%A1%EF%B8%8F;POK%C3%89MON+RUNNER+%F0%9F%8C%88" alt="Neon Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&pause=2000&color=FF2D95&center=true&vCenter=true&width=600&lines=SYSTEM+BOOTING...;WELCOME+TO+MY+NEON+GRID;CODENAME%3A+DEVELOPER-33;WEB+HACKER+%E2%9A%A1%EF%B8%8F;" alt="Neon Typing SVG" />
 
 <!-- Neon avatar or pixel art (replace as desired) -->
 <img src="https://raw.githubusercontent.com/akabab/pokemon-sprites/master/sprites/animated/25.gif" width="120" alt="Neon Pikachu" style="filter: drop-shadow(0 0 30px #05d9e8);" />
